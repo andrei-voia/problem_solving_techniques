@@ -1,1 +1,2 @@
-# problem_solving_techniques
+# Problem Solving Techniques
+
